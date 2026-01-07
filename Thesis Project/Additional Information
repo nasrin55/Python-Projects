@@ -1,1 +1,11 @@
-For the data file(.svg), please visit: https://drive.google.com/file/d/13XHaoghIEeqZF-qPWaCrG-K-zK2-G5fU/view?usp=drive_link
+Title: Handwritten Character Recognition using Convolutional Neural Network (CNN)
+For the dataset, please visit: https://drive.google.com/file/d/13XHaoghIEeqZF-qPWaCrG-K-zK2-G5fU/view?usp=drive_link
+
+This is a deep learning model using CNN to classify handwritten English alphabets (a-z, A–Z) and digits (0–9).
+Utilized Python libraries such as NumPy, Pandas, Matplotlib, OpenCV, Keras, and TensorFlow.
+Collected two Kaggle datasets (.csv) for alphabets and numbers, then cleaned, merged, and prepared them for training.
+Trained the model on a large set of 2D image samples and performed class distribution analysis.
+Implemented user input recognition with real-time prediction feedback.
+Generated a confusion matrix to evaluate performance and improve model reliability.
+Achieved an outstanding recognition accuracy of around 99%.
+
